@@ -1,0 +1,3 @@
+C:/Users/sam.harvey24/Documents/CompSci/Psudocode-callenges/cmake-build-debug/CMakeFiles/Psudocode_callenges.dir
+C:/Users/sam.harvey24/Documents/CompSci/Psudocode-callenges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sam.harvey24/Documents/CompSci/Psudocode-callenges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
